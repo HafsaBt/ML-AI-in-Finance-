@@ -1,1 +1,25 @@
-# Projects
+Intro :
+Rapid advances in technology and digitization have led to an increase in the use of online
+financial transactions. These advancements have certainly improved the speed and convenience
+of transactions, but they also pose the problem of fraudulent activity. Fraud detection in
+financial transactions is a major challenge for financial institutions, and traditional rule-based
+systems often struggle to keep up with sophisticated fraud techniques.
+In this report, we investigate the effectiveness of various classification algorithms in identifying
+fraudulent transactions.The main objective is to find an accurate fraud detection model that can
+help reduce losses caused by fraudulent activities.
+We conducted a comprehensive comparative study using several popular machine-learning
+classification algorithms, including Random Forest, XGBoost, Logistic Regression, and
+Support Vector Machines (SVM). These algorithms are chosen based on their ability to handle
+complex data patterns and their wide usability in various machine-learning applications. Our
+study focused on evaluating the performance of these models on a the data set provided,
+comparing their accuracy, precision, recall, and F1 scores.
+Throughout our analysis, we used rigorous preprocessing techniques, such as resampling to
+correct class imbalance, hot coding for classification and division features. feature ratio to
+ensure a fair comparison between models.We also used cross-validation to optimize the
+model`s hyperparameters and reduce redundancy.
+This report is structured as follows: First, we provide an overview of the data set and the
+preprocessing steps applied to prepare the data for modeling. Then, we present the method and
+results obtained for each classification algorithm. We then compare the performance metrics
+of the different models and discuss their strengths and weaknesses in the context of fraud
+detection. Finally, we conclude with a summary of our findings and recommendations for
+future work in this area.
